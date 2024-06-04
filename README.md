@@ -4,7 +4,7 @@
 I'm a passionate third-year Computer Science student at the University of Santiago de Compostela. Previously, I've studied Software Development, which provided me with valuable professional experience. Additionally, I am also deeply interested in Data Analysis, Cloud Architectures, and Project Management.
 
 # 🔗 Contact Me:
-* 📫 Reach me at sergio.ape@outlook.com
+* 📫 sergio.ape@outlook.com
 * 💼 https://www.linkedin.com/in/sergio-alpi/
 
 # 💻 Tech Stack:
