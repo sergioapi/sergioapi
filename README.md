@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Sergio Álvarez Piñón
 
 # 💫 About Me:
-I'm a passionate third-year Computer Science student at the University of Santiago de Compostela. Previously, I've studied Software Development, which provided me with valuable professional experience. Additionally, I am also deeply interested in Data Analysis, Cloud Architectures, and Project Management.
+I'm a passionate fourth-year Computer Science student at the University of Santiago de Compostela. Previously, I've studied Software Development, which provided me with valuable professional experience. Additionally, I am also deeply interested in Data Analysis, Cloud Architectures, and Project Management.
 
 # 🔗 Contact Me:
 * 📫 sergio.ape@outlook.com
