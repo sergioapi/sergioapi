@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Sergio Álvarez Piñón<br>🛠️ Software Developer<br>🎓 Final-year Computer Science student (University of Santiago de Compostela)<br>🔄 Always learning<br>💡  Sharing personal & academic projects
+👋 Hi! I'm Sergio Álvarez Piñón<br>🛠️ Software Developer<br>🎓 Software Engineering Master's Degree Student (University of Seville)<br>🔄 Always learning<br>💡  Sharing personal & academic projects
 
 
 ## 🌐 Socials:
