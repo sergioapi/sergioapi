@@ -2,7 +2,7 @@
 
 Software Engineer with over 2 years of experience developing enterprise systems.
 
-My main focus is backend development with Java and Spring Boot. I have worked with REST APIs, relational databases and SQL, with a particular interest in software architecture, testing and modern backend engineering practices.
+My main focus is backend development with Java and Spring Boot. I have worked with REST APIs and SQL databases, with a particular interest in software architecture, testing and modern backend engineering practices.
 
 ## Tech Stack
 
@@ -13,12 +13,16 @@ My main focus is backend development with Java and Spring Boot. I have worked wi
 
 ## Selected Projects
 
-### Hexaboot
-Tool for generating Java and Spring Boot projects following Hexagonal Architecture.
+### [Hexaboot](https://github.com/sergioapi/hexaboot)
 
-### VeriSon
-Web application for detecting AI-generated music, with a Python/FastAPI backend, automated testing and Docker-based deployment.
+Project generator built with Node.js and Yeoman that creates Java and Spring Boot projects following Hexagonal Architecture, with a multi-module Maven structure and configurable persistence.
+
+### [VeriSon](https://github.com/sergioapi/tfm-ai-music-detection)
+
+AI-generated music detection web application with a Python/FastAPI backend, a React/TypeScript frontend, automated tests, GitHub Actions and Docker.
+
+[Live demo](https://verison-app.vercel.app/)
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/sergio-alvarez-tech/) · sergio.alvarez.tech@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sergio-alvarez-tech/) · [Email](mailto:sergio.alvarez.tech@gmail.com)
