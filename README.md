@@ -17,7 +17,7 @@ My main focus is backend development with Java and Spring Boot. I have worked wi
 
 Project generator built with Node.js and Yeoman that creates Java and Spring Boot projects following Hexagonal Architecture, with a multi-module Maven structure and configurable persistence.
 
-### [VeriSon](https://github.com/sergioapi/tfm-ai-music-detection)
+### [VeriSon](https://github.com/sergioapi/verison)
 
 AI-generated music detection web application with a Python/FastAPI backend, a React/TypeScript frontend, automated tests, GitHub Actions and Docker.
 
